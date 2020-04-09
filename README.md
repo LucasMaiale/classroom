@@ -1,2 +1,0 @@
-# classroom
-Manual Classroom
