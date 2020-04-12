@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://classroom.exe.com.ar/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://classroom.exe.com.ar/que-necesito/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://classroom.exe.com.ar/primer-ingreso/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-12</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://classroom.exe.com.ar/resolver-actividades/</loc>
+     <lastmod>2020-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://classroom.exe.com.ar/meet/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://classroom.exe.com.ar/faq/</loc>
-     <lastmod>2020-04-08</lastmod>
+     <lastmod>2020-04-12</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
